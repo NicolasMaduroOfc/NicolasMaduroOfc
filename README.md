@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+## Hi 
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 **NicolasMaduroOfc/NicolasMaduroOfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

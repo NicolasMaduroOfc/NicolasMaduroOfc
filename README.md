@@ -1,9 +1,9 @@
 ## Hi 
 <img src="https://img.shields.io/badge/Fortnite-107C10?style=for-the-badge&logo=xbox&logoColor=white">  <img src="https://img.shields.io/badge/videos-CD2640?style=for-the-badge&logo=X&logoColor=white">
-
+<gif src="https://giphy.com/gifs/things-url-aboot-duzpaTbCUy9Vu">
 <img src="https://cdn2.unrealengine.com/12br-delay-social-news-header-02-1920x1080-119208936.jpg">
 
-<gif src="https://giphy.com/gifs/things-url-aboot-duzpaTbCUy9Vu">
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

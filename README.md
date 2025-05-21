@@ -1,7 +1,7 @@
 ## Hi 
 <img src="https://img.shields.io/badge/Fortnite-107C10?style=for-the-badge&logo=xbox&logoColor=white">
 **NicolasMaduroOfc/NicolasMaduroOfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://cdn2.unrealengine.com/12br-delay-social-news-header-02-1920x1080-119208936.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

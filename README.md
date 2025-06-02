@@ -4,4 +4,5 @@
 
 <img src="https://giphy.com/gifs/things-url-aboot-duzpaTbCUy9Vu">
 
+![FortniteFortniteDanceGIF](https://github.com/user-attachments/assets/32ae4885-5804-4e4f-b50b-d62696bb4c79)
 
